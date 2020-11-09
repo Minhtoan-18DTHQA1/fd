@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe.config
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\bin\Debug\Student Information Management.exe
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\bin\Debug\Student Information Management.pdb
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.cache
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management_MarkupCompile.lref
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.g.resources
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student_Information_Management.Properties.Resources.resources
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.exe
+C:\Users\Admin\source\repos\Student Information Management\Student Information Management\obj\Debug\Student Information Management.pdb
